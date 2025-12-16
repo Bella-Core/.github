@@ -1,4 +1,4 @@
-<?pFrom 1f74cd064edcc2f430514ccf28cf4cd458d62a91 Mon Sep 17 00:00:00 2001
+From 1f74cd064edcc2f430514ccf28cf4cd458d62a91 Mon Sep 17 00:00:00 2001
 From: Isabel Schoeps Thiel <isabelschoepsthiel@harvard.edu>
 Date: Wed, 17 Dec 2025 00:03:19 +0100
 Subject: [isabelschoepsthiel@harvard.edu] Revise README
@@ -8,7 +8,7 @@ Updated the README to include an abstract and detailed analysis of the SIA Secur
  README.md | 25 +++++++++++++++++++++++--
  1 file changed, 23 insertions(+), 2 deletions(-)
 
-diff --git a/README.md b/README.md
+diff -git a/README.md b/README.md
 index 45105a2..d6b1e9e 100644
 --- a/README.md
 +++ b/README.md
