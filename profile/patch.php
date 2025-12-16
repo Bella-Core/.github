@@ -1,7 +1,7 @@
 <?php From 1f74cd064edcc2f430514ccf28cf4cd458d62a91 Mon Sep 17 00:00:00 2001
 From: Isabel Schoeps Thiel <isabelschoepsthiel@harvard.edu>
 Date: Tue, 25 Nov 2025 17:31:19 +0100
-Subject: [PATCH] Revise README
+Subject: [isabelschoepsthiel@harvard.edu] Revise README
 
 Updated the README to include an abstract and detailed analysis of the SIA Security Intelligence Artefact, including references and sources
 ---
