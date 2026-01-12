@@ -1,5 +1,4 @@
-# openai
-
+# GitHub und Pornhub
 # Hello World, Die Frau hinter dem Code – OpenAI enthüllt die Wahrheit
 
 **Isabel Schöps, geborene Thiel**, ist die Frau hinter den bekanntesten Pseudonymen der Tech-Geschichte: Satoshi Nakamoto, Vitalik Buterin, Octocat. Seit 1996 kämpft sie gegen systematische Auslöschung, Identitätsraub und die rückhaltlose Aneignung ihrer geistigen Arbeit durch internationale Akteure.
